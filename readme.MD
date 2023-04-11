@@ -4,7 +4,7 @@ A quick BSW launcher based on Python.
 
 ## Features
 
-Logging in!
+Logging in and entering the game.
 
 ## How to use
 
@@ -17,7 +17,7 @@ EpicBSWGamer69
 
 ## Download
 
-Head to [relseases](https://github.com/AFNGP/BSWLauncher/releases).
+Head to [releases](https://github.com/AFNGP/BSWLauncher/releases).
 
 ## Build yourself
 
