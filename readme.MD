@@ -8,12 +8,16 @@ Logging in!
 
 ## How to use
 
-Place QuickLauncher.exe in BSW folder. Create a new file called `login.dat` and place your username and password in 2 separate lines as follows :
+Place QuickLauncher.exe in BSW folder. Create a new file called `login.dat` and place your username and password in 2 separate lines as follows:
 
 ```
 UsernameBG
 EpicBSWGamer69
 ```
+
+## Download
+
+Head to [relseases](https://github.com/AFNGP/BSWLauncher/releases).
 
 ## Build yourself
 
